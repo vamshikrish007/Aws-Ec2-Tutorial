@@ -13,6 +13,9 @@ B) ECS FARGATE (This is s serverless service where the infra is taken care by AW
 <img width="300" alt="image" src="https://github.com/vamshikrish007/Aws-Ec2-Tutorial/assets/17798810/d557dc7d-4f3b-423c-95d8-39c43b8ea5df"> 
 <img width="300" height ='200' alt="image" src="https://github.com/vamshikrish007/Aws-Ec2-Tutorial/assets/17798810/d3d22026-d57d-4d63-8a53-236e5c7b7467">
 
+<b>Fargate</b>
+
+
 
 
 
