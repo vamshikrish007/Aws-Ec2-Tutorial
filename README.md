@@ -21,6 +21,7 @@ B) ECS FARGATE (This is s serverless service where the infra is taken care by AW
 <img width="580" alt="image" src="https://github.com/vamshikrish007/Aws-Ec2-Tutorial/assets/17798810/7f6de821-a7ad-40f8-9bbe-2bf2d117efef">
 
 <h4>ECS-Service</h4><br/>
+ECS service automatically takes care of launching the container.
 <img width="590" alt="image" src="https://github.com/vamshikrish007/Aws-Ec2-Tutorial/assets/17798810/2516b6fe-6d7b-44c7-a74b-3fdc35fa10a8">
 
 
